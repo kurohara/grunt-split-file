@@ -63,7 +63,7 @@ If not present, the suffix of source file name is used instead.
 
 ```js
 grunt.initConfig({
-  split_file: {
+  splitfile: {
     options: {
       separator: 'abc',
       prefix: [ "1", "2" ]
